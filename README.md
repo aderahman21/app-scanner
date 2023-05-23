@@ -4,3 +4,5 @@
 # Pemrograman Mobile
 # apps Scanner
 
+
+"main.jpeg"
